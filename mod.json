@@ -1,0 +1,15 @@
+{
+    "Name": "PurchasableBlackmarketDHS",
+    "Enabled": true,
+    "Version": "1.0.0",
+    "Description": "Enables the purchase of DHS in black markets",
+    "Author": "danny-vo",
+
+    "Manifest": [
+        {
+            "Type": "ItemCollectionDef",
+            "Path": "itemCollections",
+            "ShouldAppendText": true
+        }
+    ]
+}
